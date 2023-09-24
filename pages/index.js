@@ -1,7 +1,7 @@
 import React from "react";
 import { useSelector } from "react-redux";
 import Link from "next/link";
-import LeftArrowIcon from "@/public/images/left-arrow.svg";
+import LeftArrowIcon from "../public/images/left-arrow.svg";
 import Breadcrumbs from "@mui/material/Breadcrumbs";
 import Typography from "@mui/material/Typography";
 import BreadcrumbDashboard from "../components/dashboard/breadcrums";
