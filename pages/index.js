@@ -7,7 +7,7 @@ import Typography from "@mui/material/Typography";
 import BreadcrumbDashboard from "../components/dashboard/breadcrums";
 import ProfileDetails from "../components/dashboard/profiledetails";
 import AccountSetting from "../components/dashboard/accountsetting";
-import ApplicationSetting from "../components/dashboard/applicationSetting";
+import ApplicationSetting from "../components/dashboard/applicationsetting";
 import Image from "next/image";
 
 const Dashboard = () => {
