@@ -1,7 +1,7 @@
 import React from "react";
-import LeftArrowIcon from "@/public/images/left-arrow.svg";
-import EditIcon from "@/public/images/edit.svg";
-import ProfileImage from "@/public/images/profile.png";
+import LeftArrowIcon from "../../public/images/left-arrow.svg";
+import EditIcon from "../../public/images/edit.svg";
+import ProfileImage from "../../public/images/profile.png";
 import Image from "next/image";
 
 const ApplicationSetting = () => (
