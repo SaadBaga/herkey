@@ -6,7 +6,7 @@ import Breadcrumbs from "@mui/material/Breadcrumbs";
 import Typography from "@mui/material/Typography";
 import BreadcrumbDashboard from "../components/dashboard/breadcrums";
 import ProfileDetails from "../components/dashboard/profiledetails";
-import AccountSetting from "../components/dashboard/accountSetting";
+import AccountSetting from "../components/dashboard/accountsetting";
 import ApplicationSetting from "../components/dashboard/applicationSetting";
 import Image from "next/image";
 
